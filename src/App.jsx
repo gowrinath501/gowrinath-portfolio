@@ -603,24 +603,33 @@ function App() {
         certificate="/html-css-certificate.pdf"
       />
 
-      {/* AI/ML Workshop */}
-      <CertificateCard
-        title="Artificial Intelligence & Machine Learning Workshop"
-        organization="Bannari Amman Institute of Technology"
-        certificate="/aiml-workshop.pdf"
-      />
+      {/* HTML & CSS */}
+<CertificateCard
+  title="HTML & CSS Web Development"
+  organization="Udemy"
+  certificate="/html-css-certificate.pdf"
+/>
 
-      {/* Cyber Security Workshop */}
-      <CertificateCard
-        title="Cyber Security Workshop"
-        organization="Bannari Amman Institute of Technology"
-        certificate="/cyber-security-workshop.pdf"
-      />
-      <CertificateCard
-        title="Java Programming Certificate"
-        organization="Simplilearn"
-        certificate="/certificates/java-certificate.pdf"
-      />
+{/* AI/ML Workshop */}
+<CertificateCard
+  title="Artificial Intelligence & Machine Learning Workshop"
+  organization="Bannari Amman Institute of Technology"
+  certificate="/aiml-workshop.pdf"
+/>
+
+{/* Cyber Security Workshop */}
+<CertificateCard
+  title="Cyber Security Workshop"
+  organization="Bannari Amman Institute of Technology"
+  certificate="/cyber-security-workshop.pdf"
+/>
+
+{/* Java Certificate */}
+<CertificateCard
+  title="Java Programming Certificate"
+  organization="Simplilearn"
+  certificate="/java-certificate.pdf"
+/>
 
     </div>
 
