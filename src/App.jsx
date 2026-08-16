@@ -596,14 +596,8 @@ function App() {
 
     <div className="mt-12 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
 
-      {/* HTML & CSS */}
-      <CertificateCard
-        title="HTML & CSS Web Development"
-        organization="Udemy"
-        certificate="/html-css-certificate.pdf"
-      />
 
-      {/* HTML & CSS */}
+{/* HTML & CSS */}
 <CertificateCard
   title="HTML & CSS Web Development"
   organization="Udemy"
