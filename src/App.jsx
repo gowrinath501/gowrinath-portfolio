@@ -119,7 +119,7 @@ function App() {
             <h1 className="text-5xl font-bold leading-tight md:text-7xl">
               Hi, I'm{" "}
               <span className="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-                Gowrinath
+                Gowrinath.S
               </span>
             </h1>
 
