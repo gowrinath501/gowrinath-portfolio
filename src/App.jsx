@@ -45,7 +45,7 @@ function App() {
             href="#home"
             className="text-xl font-bold tracking-widest"
           >
-            GOWRINATH<span className="text-cyan-400">.</span>
+            GOWRINATH.S<span className="text-cyan-400">.</span>
           </a>
 
           <div className="hidden items-center gap-8 md:flex">
