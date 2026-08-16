@@ -616,6 +616,11 @@ function App() {
         organization="Bannari Amman Institute of Technology"
         certificate="/cyber-security-workshop.pdf"
       />
+      <CertificateCard
+  title="Java Programming Certificate"
+  organization="Simplilearn"
+  certificate="/certificates/java-certificate.pdf"
+/>
 
     </div>
 
